@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash Bogati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Enthusiastic Learner and Creator</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHOwkiVU5dhAQ/article-cover_image-shrink_600_2000/0/1699466474826?e=2147483647&v=beta&t=za5T6Usop6pvnoB4-UucDSgNE0CDV2EUU8F9gULygFQ">
 
